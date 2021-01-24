@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mongodb-driver-reactivestreams-1.13.1-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mongo-scala-driver_2.11-2.9.0-alldep.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mongodb-driver-reactivestreams-1.13.1-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
